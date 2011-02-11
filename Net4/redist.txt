@@ -3,3 +3,7 @@ The files below can be distributed as described in the MICROSOFT REACTIVE EXTENS
 System.CoreEx.dll
 System.Reactive.dll
 System.Interactive.dll
+System.Linq.Async.dll
+System.Reactive.Testing.dll
+System.Reactive.ClientProfile.dll
+System.Reactive.ExtendedProfile.dll

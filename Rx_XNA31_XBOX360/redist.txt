@@ -4,3 +4,4 @@ System.Observable.dll
 System.CoreEx.dll
 System.Reactive.dll
 System.Interactive.dll
+System.Reactive.Testing.dll
